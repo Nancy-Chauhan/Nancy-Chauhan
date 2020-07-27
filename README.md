@@ -1,3 +1,10 @@
+<p align="center">
+ <img 
+      width="30%" 
+      src="https://media.boingboing.net/wp-content/uploads/2019/01/giphy-3.gif" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Nancy.</h1>
 <h3 align="center"> I am currently working at Grofers, India.</h3>
 
