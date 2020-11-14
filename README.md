@@ -10,7 +10,6 @@
 
 - 📝 I regulary write articles on <a href="https://nancychauhan.in/" target="blank">nancychauhan.in</a>
 - 🔭 I’m currently working on Python, Java and building stuff around them.
-- 🐍 🛠️  I recently build a mini project : https://github.com/Nancy-Chauhan/pyinit to get started with python.
 - 🎙️ Check out my recent talk here : https://www.youtube.com/watch?v=ygk7yBnljsg&feature=youtu.be 
 
 <p align="center">
