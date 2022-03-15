@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nancy.</h1>
-<h3 align="center"> I am currently working at Grofers, India.</h3>
+<h3 align="center"> I am currently exploring and learning cool stuff</h3>
 
 - 📝 I regulary write articles on <a href="https://nancychauhan.in/" target="blank">nancychauhan.in</a>
 - 🔭 I’m currently working on Python, Java and building stuff around them.
