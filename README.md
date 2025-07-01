@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nancy.</h1>
-<h3 align="center">Developer Advocate • Product Builder • GenAI Explorer</h3>
+<h3 align="center">Product Builder • Developer Advocate • GenAI Explorer</h3>
 
 <p align="center">
   <em>⚡ Interests: Developer Experience • LLM-powered Security • Observability • Open Source • Infra DevEx • Community Building</em>
