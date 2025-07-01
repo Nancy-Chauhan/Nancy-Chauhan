@@ -9,8 +9,6 @@
   <em>⚡ Interests: Developer Experience • LLM-powered Security • Observability • Open Source • Infra DevEx • Community Building</em>
 </p>
 
-I'm currently working at **Exostellar**, building onboarding experiences, docs, and GenAI demos for GPU orchestration. I care about helping developers succeed—through docs, talks, code, and conversations.
-
 - 🔭 Building with Python, Kubernetes, and LLMs  
 - 👀 Quite interested in observability—especially how we can make it more sustainable and developer-friendly  
 - ✍️ Documenting what I learn at [nancychauhan.com](https://nancychauhan.com)  
