@@ -14,7 +14,7 @@
 ### 🚀 Current Focus
 
 - 🧠 Building AI agent workflows & demos @ [Exostellar](https://exostellar.ai)
-- 🔐 Shipped an LLM-powered pentest platform at [ShipSec.ai](https://securemyorg.com)
+- 🔐 Shipped an LLM-powered pentest platform
 - 🌎 Leading community efforts like *Women in Cloud Native* (2,000+ members)
 - 🪴 Advocating for sustainable observability with Kepler & OpenTelemetry
 
