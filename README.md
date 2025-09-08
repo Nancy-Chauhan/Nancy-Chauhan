@@ -6,7 +6,7 @@
 <h3 align="center">Product Builder • Engineer • GenAI Explorer</h3>
 
 <p align="center">
-  <em>⚡ Interests: Developer Experience • LLM-powered Security • Observability • Open Source • Infra DevEx • Community Building</em>
+  <em>⚡ Interests: Developer Experience • AI • Security • Observability • Open Source • Infra DevEx • Community Building</em>
 </p>
 
 ---
@@ -17,6 +17,14 @@
 - 🔐 Shipped an LLM-powered pentest platform
 - 🌎 Leading community efforts like *Women in Cloud Native* (2,000+ members)
 - 🪴 Advocating for sustainable observability with Kepler & OpenTelemetry
+
+---
+### 🌱 Open Source & Impact
+
+- 🏆 [Winner, CNCF TAGGIE Award 2024](https://github.com/cncf/contribute-site/blob/e9e04cfc3d287f0230eaa53766571e0cab6d9d93/docs/community/Awards/index.md)
+- 🧪 Kubernetes v1.27 Release Team
+- ☁️ CNCF TAG Sustainability contributor & Global Program Lead for 2024
+- 🧰 Contributed to Kubernetes, OpenTelemetry, Jenkins, and more
 
 ---
 
@@ -33,15 +41,6 @@
 - Speaker @ KubeCon NA/EU 2024, KubeDay India, DevOpsDays
 - Topics: OpenTelemetry, AI security, OSS contribution, developer experience
 - 🎥 [Talks Playlist](https://www.youtube.com/playlist?list=PL-0wUDKSiP4rYhEiKlOQQ433nh1KxCOx1)
-
----
-
-### 🌱 Open Source & Impact
-
-- 🧪 Kubernetes v1.27 Release Team
-- ☁️ CNCF TAG Sustainability contributor & Global Program Lead
-- 🧰 Contributed to Kubernetes, OpenTelemetry, Jenkins, and more
-- 🏆 Winner, CNCF TAGGIE Award 2024
 
 ---
 
