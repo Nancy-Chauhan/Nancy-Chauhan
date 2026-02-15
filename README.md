@@ -54,5 +54,5 @@ I build products and experiences that help developers ship faster and safer, esp
 ---
 
 <p align="center">
-  <sub>Always happy to collaborate — especially on DevEx, security automation, and agentic AI ✨</sub>
+  <sub>Always happy to collaborate, especially on DevEx, security automation, and agentic AI ✨</sub>
 </p>
