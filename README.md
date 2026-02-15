@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="260" src="https://github.com/user-attachments/assets/0a32009e-535d-4370-a23f-c209f5812fed" />
+  <img height="160" src="https://github.com/user-attachments/assets/0a32009e-535d-4370-a23f-c209f5812fed" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Nancy Chauhan</h1>
