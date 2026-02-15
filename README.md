@@ -49,7 +49,7 @@ I build products and experiences that help developers ship faster and safer, esp
 * Website — [nancychauhan.com](https://nancychauhan.com)
 * Security — [security.nancychauhan.com](https://security.nancychauhan.com/)
 * Talks — [YouTube Playlist](https://www.youtube.com/playlist?list=PL-0wUDKSiP4rYhEiKlOQQ433nh1KxCOx1)  
-  *(KubeCon, KubeDay India, DevOpsDays)*
+  *(KubeCon EU & NA, KubeDay India, DevOpsDays)*
 
 ---
 
